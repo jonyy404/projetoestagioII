@@ -1,4 +1,4 @@
-# Projeto Estágio II
+# Projeto Estágio II_Proj1
 
 João Cunha nº31515, Miguel Cabral nº31634, Diogo Lopes nº32079
 
